@@ -13,7 +13,7 @@ Overlaying these districts are numerous **black dots**, each representing a **li
 This visualization highlights the **geographic correlation between gambling activity and human services regions**, offering valuable insights for **policymakers, researchers, and public health officials** addressing gambling behavior and its associated social impacts.
 
 ### 📌 Figure 4.1:
-![Figure 4.1](images/fig_4.1.png)
+![Figure 4.1](G:\All_maps\ArcGis\all_fig_PNG_corrected\fig_4.1.png)
 
 ---
 
