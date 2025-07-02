@@ -4,7 +4,7 @@ This project presents a comprehensive spatial analysis of **gambling establishme
 
 ---
 
-## 🗺️ Figure 4.1: Gambling Establishments and Human Services Regions in Louisiana
+## 🗺️ Figure 1: Gambling Establishments and Human Services Regions in Louisiana
 
 This map illustrates the state of **Louisiana divided into ten distinct Human Services Districts/Authorities**, each represented by a different color. These districts align with regional administrative boundaries and are labeled according to their respective service areas, including entities such as the **Metropolitan Human Services District**, **Capital Area Human Services District**, and **Florida Parishes Human Services Authority**, among others.
 
@@ -12,12 +12,12 @@ Overlaying these districts are numerous **black dots**, each representing a **li
 
 This visualization highlights the **geographic correlation between gambling activity and human services regions**, offering valuable insights for **policymakers, researchers, and public health officials** addressing gambling behavior and its associated social impacts.
 
-### 📌 Figure 4.1:
-![Figure 4.1](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/5ba3b84bb490585e3be89f3af1fae5c5a28fd287/fig_4.1.png)
+### 📌 Figure 1:
+![Figure 1](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/5ba3b84bb490585e3be89f3af1fae5c5a28fd287/fig_4.1.png)
 
 ---
 
-## 📊 Figures 4.2 – 4.11: Regional Breakdown of Gambling Establishments Across Louisiana
+## 📊 Figures 2 – 11: Regional Breakdown of Gambling Establishments Across Louisiana
 
 Figures 4.2 through 4.11 provide a detailed breakdown of **gambling establishments across each of the ten Human Services Regions in Louisiana**. Within each region, establishments are mapped by **parish**, illustrating the spread and concentration of gambling activity.
 
@@ -33,19 +33,19 @@ This regional breakdown enhances our understanding of the **geographic and legal
 
 ---
 
-### 📌 Figures 4.2 – 4.11:
+### 📌 Figures 2 – 11:
 | Region | Figure |
 |--------|--------|
-| Region 1 | ![Figure 4.2](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/c3626585564623dac50a3429fc7ffc9d4d2294c1/region_1.png) |
-| Region 2 | ![Figure 4.3](images/fig_4.3.png) |
-| Region 3 | ![Figure 4.4](images/fig_4.4.png) |
-| Region 4 | ![Figure 4.5](images/fig_4.5.png) |
-| Region 5 | ![Figure 4.6](images/fig_4.6.png) |
-| Region 6 | ![Figure 4.7](images/fig_4.7.png) |
-| Region 7 | ![Figure 4.8](images/fig_4.8.png) |
-| Region 8 | ![Figure 4.9](images/fig_4.9.png) |
-| Region 9 | ![Figure 4.10](images/fig_4.10.png) |
-| Region 10 | ![Figure 4.11](images/fig_4.11.png) |
+| Region 1 | ![Figure 2](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/c3626585564623dac50a3429fc7ffc9d4d2294c1/region_1.png) |
+| Region 2 | ![Figure 3](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_2.png) |
+| Region 3 | ![Figure 4](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_3.png) |
+| Region 4 | ![Figure 5](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_4.png) |
+| Region 5 | ![Figure 6](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_5.png) |
+| Region 6 | ![Figure 7](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_6.png) |
+| Region 7 | ![Figure 8](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_7.png) |
+| Region 8 | ![Figure 9](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_8.png) |
+| Region 9 | ![Figure 10](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_9.png) |
+| Region 10 | ![Figure 11](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/561ec385e5fed16741501663ed37e4ce44485a4b/region_10.png) |
 
 ---
 
