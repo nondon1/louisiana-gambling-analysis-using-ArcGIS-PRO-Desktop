@@ -36,7 +36,7 @@ This regional breakdown enhances our understanding of the **geographic and legal
 ### 📌 Figures 4.2 – 4.11:
 | Region | Figure |
 |--------|--------|
-| Region 1 | ![Figure 4.2](images/fig_4.2.png) |
+| Region 1 | ![Figure 4.2](https://github.com/nondon1/louisiana-gambling-analysis-using-ArcGIS-PRO-Desktop/blob/c3626585564623dac50a3429fc7ffc9d4d2294c1/region_1.png) |
 | Region 2 | ![Figure 4.3](images/fig_4.3.png) |
 | Region 3 | ![Figure 4.4](images/fig_4.4.png) |
 | Region 4 | ![Figure 4.5](images/fig_4.5.png) |
