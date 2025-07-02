@@ -19,7 +19,7 @@ This visualization highlights the **geographic correlation between gambling acti
 
 ## 📊 Figures 2 – 11: Regional Breakdown of Gambling Establishments Across Louisiana
 
-Figures 4.2 through 4.11 provide a detailed breakdown of **gambling establishments across each of the ten Human Services Regions in Louisiana**. Within each region, establishments are mapped by **parish**, illustrating the spread and concentration of gambling activity.
+Figures 2 through 11 provide a detailed breakdown of **gambling establishments across each of the ten Human Services Regions in Louisiana**. Within each region, establishments are mapped by **parish**, illustrating the spread and concentration of gambling activity.
 
 While most regions contain several parishes with active gambling operations, it is important to note that some parishes are designated as **non-gambling parishes**, where gambling is **not legalized under state law**. These areas are easily identifiable on the maps due to the **absence of gambling locations**.
 
